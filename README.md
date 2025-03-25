@@ -18,3 +18,5 @@ Merge changes in upstream (branch: main) into your current branch:
 Push the changes to your forked repository:
 
     git push origin master
+
+It always confict
