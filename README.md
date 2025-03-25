@@ -11,10 +11,10 @@ Pull the latest changes from the template repository:
 
     git fetch upstream
 
-Merge changes into your current branch:
+Merge changes in upstream (branch: main) into your current branch:
 
     git merge upstream/main
 
 Push the changes to your forked repository:
 
-    git push origin main
+    git push origin master
